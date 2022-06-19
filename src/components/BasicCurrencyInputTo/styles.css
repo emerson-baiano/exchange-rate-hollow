@@ -1,0 +1,17 @@
+.number-output-text {
+  color: hsl(0deg 2% 40%);
+  font-family: "Poppins";
+  margin-left: 0.3rem;
+  font-weight: 500;
+  font-size: 1.8rem;
+  line-height: 1.6rem;
+  height: 5.8rem;
+  background: #d3d3d338;
+  border-radius: 0.5rem;
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-top: 2rem;
+}

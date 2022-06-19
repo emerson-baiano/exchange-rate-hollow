@@ -1,0 +1,28 @@
+.main-container {
+  background: #fff;
+  padding: 5rem;
+  border-radius: 1.5rem;
+  box-shadow: 0 0.8rem 1.6rem rgba(60, 60, 83, 0.1);
+  position: fixed;
+  min-height: 44rem;
+  min-width: 43rem;
+  top: 30%;
+}
+
+.main-container-inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.main-inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-btn-exchange {
+  align-self: center;
+}
+
+.main-container label {
+  font-family: "Poppins";
+}

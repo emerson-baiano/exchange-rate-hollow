@@ -1,0 +1,56 @@
+.nav-container {
+  background-color: hsl(238, 69%, 60%);
+  width: 100%;
+  min-height: 40vh;
+  font-family: "Poppins";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.nav-container h1 {
+  color: #fcfcfc;
+  font-size: 2.1rem;
+}
+
+.nav-container h2 {
+  color: hsl(187, 79%, 46%);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.4rem;
+  line-height: 1.6rem;
+}
+.nav-container h3 {
+  color: #fcfcfc;
+  margin-left: 0.3rem;
+
+  font-weight: 600;
+  font-size: 2.3rem;
+  line-height: 2.9rem;
+}
+
+.nav-text-container {
+  font-size: 1.5rem;
+  display: flex;
+  text-align: end;
+  margin-left: 0.3rem;
+}
+.nav-container p {
+  color: #fcfcfc;
+  font-size: 1.6rem;
+  line-height: 2.9rem;
+}
+
+.nav-logo {
+  position: fixed;
+  top: 3rem;
+  left: 3rem;
+  line-height: 2.4rem;
+  display: flex;
+  align-items: center;
+  font-size: 4rem;
+}
+
+.nav-logo svg {
+  margin-right: 0.7rem;
+  color: hsl(238, 70%, 30%);
+}
